@@ -29,4 +29,12 @@ public class Test1 {
 	public void api3() {
 		System.out.println("api3");
 	}
+	
+	public void api4() {
+		System.out.println("api4");
+	}
+	
+	public void api5() {
+		System.out.println("api5");
+	}
 }
