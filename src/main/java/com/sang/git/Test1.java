@@ -20,4 +20,13 @@ public class Test1 {
 	public void api1() {
 		System.out.println("api1");
 	}
+	
+	
+	public void api2() {
+		System.out.println("api2");
+	}
+	
+	public void api3() {
+		System.out.println("api3");
+	}
 }
