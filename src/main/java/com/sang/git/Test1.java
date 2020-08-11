@@ -26,4 +26,8 @@ public class Test1 {
 	public void feature3() {
 		System.out.println("print");
 	}
+	
+	public void feature4() {
+		System.out.println("print");
+	}
 }
