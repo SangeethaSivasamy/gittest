@@ -15,6 +15,7 @@ public class Test1 {
 		System.out.println("print");
 	}
 	
+
 	
 	public void print1() {
 		System.out.println("print");
@@ -24,7 +25,25 @@ public class Test1 {
 		System.out.println("print");
 	}
 	
-	public void print3() {
+
+
+	public void feature1() {
+		System.out.println("print");
+	}
+	
+	public void feature2() {
+		System.out.println("print");
+	}
+	
+	public void feature3() {
+		System.out.println("print");
+	}
+	
+	public void feature4() {
+		System.out.println("print");
+	}
+	
+	public void feature5() {
 		System.out.println("print");
 	}
 }
