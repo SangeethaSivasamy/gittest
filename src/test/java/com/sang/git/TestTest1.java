@@ -2,7 +2,7 @@ package com.sang.git;
 
 public class TestTest1 {
 
-	public void get123() {
+	public void get1() {
 		String str = "testv1";
 		System.out.println("This is test1. Make it complex");
 	}
