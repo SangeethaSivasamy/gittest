@@ -19,4 +19,8 @@ public class Test1 {
 	public void print1() {
 		System.out.println("print");
 	}
+	
+	public void print2() {
+		System.out.println("print");
+	}
 }
