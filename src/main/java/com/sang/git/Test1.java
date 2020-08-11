@@ -2,16 +2,11 @@ package com.sang.git;
 
 public class Test1 {
 
-	public static void main(String[] args) {
-		System.out.println("Test1");
-		System.out.println("Testing git commands");
-		System.out.println("Testing dev_branch");
-	
-		System.out.println("Sangee");
-		System.out.println("Sangeetha");
+	public void get1() {
+		System.out.println("This is test1");
 	}
 	
-	public void print() {
-		System.out.println("print");
+	public void get2() {
+		System.out.println("This is test2");
 	}
 }
