@@ -30,4 +30,8 @@ public class Test1 {
 	public void feature4() {
 		System.out.println("print");
 	}
+	
+	public void feature5() {
+		System.out.println("print");
+	}
 }
