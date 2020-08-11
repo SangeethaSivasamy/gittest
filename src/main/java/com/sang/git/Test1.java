@@ -18,4 +18,8 @@ public class Test1 {
 	public void feature1() {
 		System.out.println("print");
 	}
+	
+	public void feature2() {
+		System.out.println("print");
+	}
 }
