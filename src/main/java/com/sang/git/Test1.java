@@ -15,4 +15,9 @@ public class Test1 {
 	public void print() {
 		System.out.println("print");
 	}
+	
+	
+	public void api1() {
+		System.out.println("api1");
+	}
 }
