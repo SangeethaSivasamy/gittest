@@ -3,7 +3,7 @@ package com.sang.git;
 public class TestTest1 {
 
 	public void get123() {
-		String str = "test";
+		String str = "testv1";
 		System.out.println("This is test1. Make it complex");
 	}
 	
